@@ -26,3 +26,6 @@ MANUAL (How setup code)
       - WWW was your acces to web page 
       - ADMIN_LEVEL if you dont change your code please dont change it
       - THEME_NAME if you dont change your code please dont change it
+  - TABLE users
+      - DEFAULT LOGIN is admin/admin
+      - Password is in MD5 encryption
